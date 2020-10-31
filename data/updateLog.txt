@@ -1,0 +1,4 @@
+1)added an .exe file instead of .py 
+2)maked buttons lead to the days
+3)maked it more cleaner to use
+4)published on github
