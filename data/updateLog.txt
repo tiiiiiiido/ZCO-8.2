@@ -1,4 +1,8 @@
+v1.1
 1)added an .exe file instead of .py 
 2)maked buttons lead to the days
 3)maked it more cleaner to use
 4)published on github
+v1.5
+1)it now can run by one window 
+2)you dont have to choose what day it is
